@@ -16,9 +16,4 @@ Welcome to my GitHub profile! I'm passionate about all things Python, data scien
 * **Language Models for Math Questions:** I've trained and fine-tuned language models to solve math questions at an 8th-grade level. It made my GPU go crazy.
 * **Deep Learning Projects:** Exploring various deep learning projects, pushing the boundaries of what's possible.
 
-## LeetCode Adventures 🧗
-
-* I regularly publish my LeetCode solutions. If you're stuck on a problem, maybe my solution can help. Or maybe you can help me improve mine!
-* C++ solutions coming soon, stay tuned!
-
 Thanks for stopping by! Happy coding! 💻✨
