@@ -1,6 +1,6 @@
 # Philipp Sz.
 
-Simulation Technology student (starting October 2026). Building deep learning systems from scratch to understand them from first principles.
+Student who is building deep learning systems from scratch to understand them from first principles.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
