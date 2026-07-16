@@ -1,19 +1,19 @@
-# Hi there! 👋
+# Philipp Sz.
 
-Welcome to my GitHub profile! I'm passionate about all things Python, data science, and the fascinating world of machine and deep learning.
+Simulation Technology student (starting October 2026). Building deep learning systems from scratch to understand them from first principles.
 
-## What I'm Up To 🚀
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-* Diving deep into Python, C++, PyTorch, and NumPy.
-* Currently on a learning adventure with C++, Git, CUDA, computer vision (CV), and natural language processing (NLP). I'm also brushing up on algorithms and data structures – because why not?
-* Sharing my LeetCode solutions.
-* Keeping track of my coding projects (because organization is key).
-* Always open to collaborations!
+## Projects
 
-## My Projects 🛠️
+**[Sprout](https://github.com/philipp-sz/Sprout)**
+A small language model trained from scratch in PyTorch on a single 12GB VRAM GPU. Custom tokenizer, multiprocessed data pipeline, and a modern architecture stack: RoPE, RMSNorm, SwiGLU, GQA, Flash Attention, KV cache, QK-Norm, Muon optimizer, WSD learning rate schedule. Pretraining and SFT complete.
 
-* **Object Detection Algorithms:** I've implemented R-CNN, Fast R-CNN, Faster R-CNN, and YOLOv3 from scratch. Yes, from scratch! It was a wild ride, but totally worth it.
-* **Language Models for Math Questions:** I've trained and fine-tuned language models to solve math questions at an 8th-grade level. It made my GPU go crazy.
-* **Deep Learning Projects:** Exploring various deep learning projects, pushing the boundaries of what's possible.
+**[tenzor_python](https://github.com/philipp-sz/tenzor_python)**
+A PyTorch clone built from scratch: autograd engine, `Tensor` class, linear layers, activation functions, optimizers, and a full PyTest suite.
 
-Thanks for stopping by! Happy coding! 💻✨
+## What I want to learn
+
+- C++ and CUDA to build a GPU-accelerated version of Tenzor
+- OpenGL for a solar system N-body simulation
